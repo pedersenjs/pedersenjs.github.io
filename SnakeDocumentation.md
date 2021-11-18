@@ -15,9 +15,9 @@ All you need to play the game is a keyboard, two fingers, and this link: https:/
 It's your lucky day! There is no installation and this game is free to play from any computer. 
 
 ## FAQs
-# How do I start playing? 
+### How do I start playing? 
 Once you click on the link given above (https://snake.googlemaps.com/), you can click the "Start" button. From there you can select a city. Then you will be shown a quick instruction on how to play (use the arrows to navigate your snake around the screen). Then click "Got it" and begin playing. Happy snaking!
-# What is the highest score I can get? 
+### What is the highest score I can get? 
 256 points is the highest score one can get.
 
 ## Troubleshooting/Where to Get Support
