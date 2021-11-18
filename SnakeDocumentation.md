@@ -11,12 +11,18 @@ The game of Snake first appeared in 1997 on the Nokia 6110. In the traditional g
 All you need to play the game is a keyboard, two fingers, and this link: https://snake.googlemaps.com/.
 ![image](https://user-images.githubusercontent.com/89262517/137808186-a7febd5d-4a55-4659-8db4-a7e1894f694c.png)
 
-## Example(s) of your code (if applicable)
+## Installation Instructions
+It's your lucky day! There is no installation and this game is free to play from any computer. 
 
 ## FAQs
+# How do I start playing? 
+Once you click on the link given above (https://snake.googlemaps.com/), you can click the "Start" button. From there you can select a city. Then you will be shown a quick instruction on how to play (use the arrows to navigate your snake around the screen). Then click "Got it" and begin playing. Happy snaking!
+# What is the highest score I can get? 
+256 points is the highest score one can get.
 
 ## Troubleshooting/Where to Get Support
-
-## How to Contribute
+You can go to support.google.com to get support! Here is a link to one of their help pages for the Snake game: https://support.google.com/maps/answer/9286676?hl=en&co=GENIE.Platform%3DAndroid.
+You can also try searching questions on Google to find more documentation or support resources.
 
 ## Licensing
+This game was created by Google and its developers. 
