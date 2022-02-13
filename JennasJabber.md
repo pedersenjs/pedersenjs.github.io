@@ -5,3 +5,4 @@ Hello! I have been trying to become more comfortable using Github pages, so I wi
 [Blog Post #1](https://pedersenjs.github.io/BlogPosts/Post1.html)
 [Blog Post #2](https://pedersenjs.github.io/BlogPosts/Post2.html)
 [Blog Post #3](https://pedersenjs.github.io/BlogPosts/Post3.html)
+[Blog Post #4](https://pedersenjs.github.io/BlogPosts/Post4.html)
