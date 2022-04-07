@@ -7,4 +7,5 @@ Hello! I have been trying to become more comfortable using Github pages, so I wi
 [Blog Post #3](https://pedersenjs.github.io/BlogPosts/Post3.html)<br/>
 [Blog Post #4](https://pedersenjs.github.io/BlogPosts/Post4.html)<br/>
 [Blog Post #5](https://pedersenjs.github.io/BlogPosts/Post5.html)<br/>
-[Blog Post #6](https://pedersenjs.github.io/BlogPosts/Post6.html)
+[Blog Post #6](https://pedersenjs.github.io/BlogPosts/Post6.html)<br/>
+[Blog Post #7](https://pedersenjs.github.io/BlogPosts/post7.html)
